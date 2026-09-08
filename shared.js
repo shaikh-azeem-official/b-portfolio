@@ -67,7 +67,7 @@ const projects = [
     title: "S-Quick Mart",
     category: "GROCERY DELIVERY PLATFORM",
     description: "A complete online grocery platform built for fast shopping, easy ordering and reliable local delivery in Parbhani.",
-    heroImage: "images/quickmart.jpeg",
+    heroImage: "images/smart/quickmart.jpeg",
     about: "S_Quick Mart is a complete online grocery delivery platform built for customers in Parbhani. Customers can browse products, manage their account and address, use wishlist and cart, place orders and track deliveries. The platform offers 20–30 minute local delivery, YourNeed custom orders and Pickup & Drop services. Behind the customer experience, it includes an Admin Panel, Delivery Boy system and StockFlow inventory management, creating one connected ecosystem for shopping, stock, orders and delivery.",
 
 built: [
@@ -110,16 +110,16 @@ technology: [
 
 result: "A complete local e-commerce ecosystem connecting customers, store operations, inventory management, administration and delivery teams in one integrated platform.",
 images: [
-      "images/quickmart.jpeg",
-      "images/1.jpeg",
-      "images/2.jpeg",
-      "images/3.jpeg",
-      "images/4.jpeg",
-      "images/5.jpeg",
-      "images/6.jpeg",
-      "images/7.jpeg",
-      "images/8.jpeg",
-      "images/9.jpeg",
+      "images/smart/quickmart.jpeg",
+      "images/smart/1.jpeg",
+      "images/smart/2.jpeg",
+      "images/smart/3.jpeg",
+      "images/smart/4.jpeg",
+      "images/smart/5.jpeg",
+      "images/smart/6.jpeg",
+      "images/smart/7.jpeg",
+      "images/smart/8.jpeg",
+      "images/smart/9.jpeg",
     ],
     liveUrl: "https://squickmart.store"
   },
