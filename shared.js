@@ -128,7 +128,7 @@ images: [
     title: "PEAKVISTA",
     category: "LUXURY REAL ESTATE PLATFORM",
     description: "A premium property marketplace pairing calm editorial presentation with practical search, filtering and floor-plan discovery.",
-    heroImage: "https://images.unsplash.com/photo-1613977257363-707ba9348227?q=80&w=1400&auto=format&fit=crop",
+    heroImage: "ima",
     about: "PeakVista was shaped for buyers who need confidence quickly: an elevated property experience with the information architecture of a serious marketplace.",
     built: ["Property Marketplace", "Advanced Search", "Property Filters", "Floor-plan Discovery", "Responsive UI", "Editorial Listing Pages"],
     features: ["Clear property comparison", "Fast search and filtering", "Premium visual hierarchy", "AR-ready floor-plan direction", "Responsive browsing experience"],
