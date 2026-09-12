@@ -125,22 +125,28 @@ images: [
   },
   {
     id: 2,
-    title: "PEAKVISTA",
-    category: "LUXURY REAL ESTATE PLATFORM",
-    description: "A premium property marketplace pairing calm editorial presentation with practical search, filtering and floor-plan discovery.",
-    heroImage: "ima",
-    about: "PeakVista was shaped for buyers who need confidence quickly: an elevated property experience with the information architecture of a serious marketplace.",
-    built: ["Property Marketplace", "Advanced Search", "Property Filters", "Floor-plan Discovery", "Responsive UI", "Editorial Listing Pages"],
-    features: ["Clear property comparison", "Fast search and filtering", "Premium visual hierarchy", "AR-ready floor-plan direction", "Responsive browsing experience"],
-    technology: ["Next.js", "Minimal UI Design", "Mapbox Integration", "Framer Motion"],
-    result: "The result is a more confident property browsing journey that lets high-value listings lead while keeping the practical details close at hand.",
-    images: [
-      "https://images.unsplash.com/photo-1613977257363-707ba9348227?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1400&auto=format&fit=crop"
+    title: "ROYAL FASHION",
+    category: "WOMEN'S ETHNIC WEAR E-COMMERCE PLATFORM",
+    description: "A complete women's fashion e-commerce platform for ready-made lehengas, party wear and festive collections, built with a rich gold-and-editorial aesthetic and a fully functional shopping experience from browsing to checkout.",
+    heroImage: "images/fashion/1.jpeg",
+    about: "Royal Fashion was built as a full-scale local fashion storefront — combining a premium, boutique-style visual identity with a genuine e-commerce engine: catalogue browsing, cart, wishlist, checkout and order tracking, backed by a dedicated admin dashboard for managing the entire store.",
+    built: ["Product Catalogue & Categories", "Advanced Shop Filters", "Cart & Wishlist System", "Customer Login & Registration", "Checkout & Order Flow", "Order Tracking Dashboard", "Full Admin Panel", "Inventory & Coupon Management"],
+    features: ["Multi-filter product search (price, size, colour, rating, stock)", "Dynamic product pages with gallery, variants & related items", "Cart, wishlist and order-history for every customer", "Role-based admin dashboard with sales stats & recent orders", "Delivery-zone validation at checkout", "Fully responsive, elegant gold-accented design"],
+    technology: ["HTML5 / CSS3", "Vanilla JavaScript", "Firebase-ready Architecture (Auth, Firestore, Storage)", "Custom Admin Dashboard", "Responsive Design System"],
+    result: "The result is a boutique-grade online store that feels premium to shop on while giving the business owner a genuinely usable back-end — products, orders, inventory, banners, coupons and reviews all manageable from one admin panel.",images: [
+      "images/fashion/2.jpeg",
+      "images/fashion/3.jpeg",
+      "images/fashion/4.jpeg",
+      "images/fashion/5.jpeg",
+      "images/fashion/6.jpeg",
+      "images/fashion/7.jpeg",
+      "images/fashion/8.jpeg",
+      "images/fashion/9.jpeg",
+      "images/fashion/10.jpeg",
+      "images/fashion/11.jpeg",
+      "images/fashion/12.jpeg",
     ],
-    liveUrl: "https://peakvista.com"
+    liveUrl: "https://shaikh-azeem-official.github.io/fashion"
   },
   {
     id: 3,
