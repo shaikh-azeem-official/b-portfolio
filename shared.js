@@ -183,21 +183,21 @@ images: [
         title: "DEVELOPER ACADEMY",
     category: "SCHOOL / EDUCATIONAL INSTITUTION WEBSITE",
     description: "A complete informational platform for a school, bringing admissions, academics, results, notices and events together in one clean, easy-to-navigate site.",
-    heroImage: "image/academy/1.png",
+    heroImage: "images/academy/1.png",
     about: "Developer Academy was built to give a school a genuine digital front door — a place where parents can check admissions and fees, students can track results and notices, and the institution's story comes through clearly.",
     built: ["School Landing Page", "Online Admissions Form", "Academics & Syllabus Pages", "Faculty Directory", "Photo Gallery & Events", "Notices & Announcements Board", "Student Result Checker"],
     features: ["Live scrolling announcement ticker", "Online admission form with fee structure & eligibility", "Class-wise syllabus and timetable listing", "Faculty profiles by subject/department", "Event and gallery showcase (sports day, annual function, workshops)", "Online result lookup for students", "Fully responsive across devices"],
     technology: ["HTML5", "CSS3", "Vanilla JavaScript", "Responsive Grid Layout"],
     result: "The result is a school website that functions as a genuine information hub — reducing phone calls and front-office queries by putting admissions, results and notices directly in parents' and students' hands.",images: [
-      "image/academy/2.jpeg",
-      "image/academy/3.jpeg",
-      "image/academy/4.jpeg",
-      "image/academy/5.jpeg",
-      "image/academy/6.jpeg",
-      "image/academy/7.jpeg",
-      "image/academy/8.jpeg",
-      "image/academy/9.jpeg",
-      "image/academy/10.jpeg"
+      "images/academy/2.jpeg",
+      "images/academy/3.jpeg",
+      "images/academy/4.jpeg",
+      "images/academy/5.jpeg",
+      "images/academy/6.jpeg",
+      "images/academy/7.jpeg",
+      "images/academy/8.jpeg",
+      "images/academy/9.jpeg",
+      "images/academy/10.jpeg"
     ],
     liveUrl: "#"
   }
