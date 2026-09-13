@@ -183,7 +183,7 @@ images: [
         title: "DEVELOPER ACADEMY",
     category: "SCHOOL / EDUCATIONAL INSTITUTION WEBSITE",
     description: "A complete informational platform for a school, bringing admissions, academics, results, notices and events together in one clean, easy-to-navigate site.",
-    heroImage: "image/academy/1.jpeg",
+    heroImage: "image/academy/1.png",
     about: "Developer Academy was built to give a school a genuine digital front door — a place where parents can check admissions and fees, students can track results and notices, and the institution's story comes through clearly.",
     built: ["School Landing Page", "Online Admissions Form", "Academics & Syllabus Pages", "Faculty Directory", "Photo Gallery & Events", "Notices & Announcements Board", "Student Result Checker"],
     features: ["Live scrolling announcement ticker", "Online admission form with fee structure & eligibility", "Class-wise syllabus and timetable listing", "Faculty profiles by subject/department", "Event and gallery showcase (sports day, annual function, workshops)", "Online result lookup for students", "Fully responsive across devices"],
