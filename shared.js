@@ -161,7 +161,7 @@ const projects = [
       "images/academy/9.jpeg",
       "images/academy/10.jpeg"
     ],
-    liveUrl: "#"
+    liveUrl: "https://vibe-kids.com"
   }
 ];
 
