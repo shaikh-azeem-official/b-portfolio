@@ -64,52 +64,15 @@ document.querySelectorAll(".reveal,.reveal-l,.reveal-r").forEach((element) => ob
 const projects = [
   {
     id: 1,
-    title: "S-Quick Mart",
+     title: "S-QUICK MART",
     category: "GROCERY DELIVERY PLATFORM",
-    description: "A complete online grocery platform built for fast shopping, easy ordering and reliable local delivery in Parbhani.",
+    description: "A full-scale online grocery delivery ecosystem built for Parbhani — connecting fast local shopping with real-time order, stock and delivery management.",
     heroImage: "images/smart/quickmart.jpeg",
-    about: "S_Quick Mart is a complete online grocery delivery platform built for customers in Parbhani. Customers can browse products, manage their account and address, use wishlist and cart, place orders and track deliveries. The platform offers 20–30 minute local delivery, YourNeed custom orders and Pickup & Drop services. Behind the customer experience, it includes an Admin Panel, Delivery Boy system and StockFlow inventory management, creating one connected ecosystem for shopping, stock, orders and delivery.",
-
-built: [
-  "Online Grocery Store",
-  "Product Categories & Subcategories",
-  "Customer Login & Account",
-  "Address Management",
-  "Wishlist & Shopping Cart",
-  "Online Order System",
-  "Order Tracking",
-  "YourNeed Custom Orders",
-  "Pickup & Drop Service",
-  "Admin Management Panel",
-  "Delivery Boy Management System",
-  "StockFlow Inventory System",
-  "Stock & Product Management",
-  "Responsive Mobile Experience"
-],
-
-features: [
-  "20–30 MINUTE LOCAL DELIVERY",
-  "CATEGORIES & SUBCATEGORIES",
-  "WISHLIST & SHOPPING CART",
-  "ORDER TRACKING",
-  "YOURNEED CUSTOM ORDERS",
-  "PICKUP & DROP SERVICE",
-  "ADMIN CONTROL PANEL",
-  "DELIVERY BOY MANAGEMENT",
-  "STOCKFLOW INVENTORY MANAGEMENT"
-],
-
-technology: [
-  "FULL-STACK WEB DEVELOPMENT",
-  "E-COMMERCE DEVELOPMENT",
-  "UI/UX DESIGN",
-  "RESPONSIVE WEB DESIGN",
-  "ORDER MANAGEMENT SYSTEM",
-  "INVENTORY MANAGEMENT SYSTEM"
-],
-
-result: "A complete local e-commerce ecosystem connecting customers, store operations, inventory management, administration and delivery teams in one integrated platform.",
-images: [
+    about: "S-Quick Mart was engineered as a complete local grocery ecosystem rather than just a storefront. Customers get fast browsing, account and address management, wishlist, cart and live order tracking — with 20–30 minute delivery, YourNeed custom-order requests, and a Pickup & Drop service. Behind the scenes, a powerful Admin Panel runs on real-time Firestore data, coordinating StockFlow inventory management and a dedicated Delivery Boy system — giving the business one connected control centre for stock, orders and delivery, updating live.",
+    built: ["Online Grocery Storefront", "Product Categories & Subcategories", "Customer Login & Account System", "Address Management", "Wishlist & Shopping Cart", "Real-time Order Placement & Tracking", "YourNeed Custom Order Requests", "Pickup & Drop Service", "Admin Control Panel", "Delivery Boy Management System", "StockFlow Inventory System", "Live Product & Stock Management", "Responsive Mobile Experience"],
+    features: ["20–30 minute local delivery", "Real-time order tracking with live status updates", "Category & subcategory-based product discovery", "Wishlist and persistent shopping cart", "YourNeed custom order requests for unlisted items", "Pickup & Drop logistics service", "Centralised admin control panel", "Dedicated delivery-boy assignment & management", "StockFlow live inventory tracking", "Fully responsive mobile-first design"],
+    technology: ["HTML5 / CSS3", "Vanilla JavaScript (ES6+)", "Firebase Authentication", "Cloud Firestore (Real-time Database)", "Firebase Storage", "Custom Admin Dashboard (StockFlow + Delivery System)"],
+    result: "The result is a genuine local e-commerce ecosystem — not just a shop, but a live operations hub where customers, store staff, inventory and delivery teams all work off the same real-time data.",images: [
       "images/smart/quickmart.jpeg",
       "images/smart/1.jpeg",
       "images/smart/2.jpeg",
