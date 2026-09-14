@@ -64,52 +64,15 @@ document.querySelectorAll(".reveal,.reveal-l,.reveal-r").forEach((element) => ob
 const projects = [
   {
     id: 1,
-    title: "S-Quick Mart",
+    title: "S-QUICK MART",
     category: "GROCERY DELIVERY PLATFORM",
-    description: "A complete online grocery platform built for fast shopping, easy ordering and reliable local delivery in Parbhani.",
-    heroImage: "images/quickmart.jpeg",
-    about: "S_Quick Mart is a complete online grocery delivery platform built for customers in Parbhani. Customers can browse products, manage their account and address, use wishlist and cart, place orders and track deliveries. The platform offers 20–30 minute local delivery, YourNeed custom orders and Pickup & Drop services. Behind the customer experience, it includes an Admin Panel, Delivery Boy system and StockFlow inventory management, creating one connected ecosystem for shopping, stock, orders and delivery.",
-
-built: [
-  "Online Grocery Store",
-  "Product Categories & Subcategories",
-  "Customer Login & Account",
-  "Address Management",
-  "Wishlist & Shopping Cart",
-  "Online Order System",
-  "Order Tracking",
-  "YourNeed Custom Orders",
-  "Pickup & Drop Service",
-  "Admin Management Panel",
-  "Delivery Boy Management System",
-  "StockFlow Inventory System",
-  "Stock & Product Management",
-  "Responsive Mobile Experience"
-],
-
-features: [
-  "20–30 MINUTE LOCAL DELIVERY",
-  "CATEGORIES & SUBCATEGORIES",
-  "WISHLIST & SHOPPING CART",
-  "ORDER TRACKING",
-  "YOURNEED CUSTOM ORDERS",
-  "PICKUP & DROP SERVICE",
-  "ADMIN CONTROL PANEL",
-  "DELIVERY BOY MANAGEMENT",
-  "STOCKFLOW INVENTORY MANAGEMENT"
-],
-
-technology: [
-  "FULL-STACK WEB DEVELOPMENT",
-  "E-COMMERCE DEVELOPMENT",
-  "UI/UX DESIGN",
-  "RESPONSIVE WEB DESIGN",
-  "ORDER MANAGEMENT SYSTEM",
-  "INVENTORY MANAGEMENT SYSTEM"
-],
-
-result: "A complete local e-commerce ecosystem connecting customers, store operations, inventory management, administration and delivery teams in one integrated platform.",
-images: [
+    description: "A full-scale online grocery delivery ecosystem built for Parbhani — connecting fast local shopping with real-time order, stock and delivery management.",
+    heroImage: "images/smart/quickmart.jpeg",
+    about: "S-Quick Mart was engineered as a complete local grocery ecosystem rather than just a storefront. Customers get fast browsing, account and address management, wishlist, cart and live order tracking — with 20–30 minute delivery, YourNeed custom-order requests, and a Pickup & Drop service. Behind the scenes, a powerful Admin Panel runs on real-time Firestore data, coordinating StockFlow inventory management and a dedicated Delivery Boy system — giving the business one connected control centre for stock, orders and delivery, updating live.",
+    built: ["Online Grocery Storefront", "Product Categories & Subcategories", "Customer Login & Account System", "Address Management", "Wishlist & Shopping Cart", "Real-time Order Placement & Tracking", "YourNeed Custom Order Requests", "Pickup & Drop Service", "Admin Control Panel", "Delivery Boy Management System", "StockFlow Inventory System", "Live Product & Stock Management", "Responsive Mobile Experience"],
+    features: ["20–30 minute local delivery", "Real-time order tracking with live status updates", "Category & subcategory-based product discovery", "Wishlist and persistent shopping cart", "YourNeed custom order requests for unlisted items", "Pickup & Drop logistics service", "Centralised admin control panel", "Dedicated delivery-boy assignment & management", "StockFlow live inventory tracking", "Fully responsive mobile-first design"],
+    technology: ["HTML5 / CSS3", "Vanilla JavaScript (ES6+)", "Firebase Authentication", "Cloud Firestore (Real-time Database)", "Firebase Storage", "Custom Admin Dashboard (StockFlow + Delivery System)"],
+    result: "The result is a genuine local e-commerce ecosystem — not just a shop, but a live operations hub where customers, store staff, inventory and delivery teams all work off the same real-time data.",images: [
       "images/smart/quickmart.jpeg",
       "images/smart/1.jpeg",
       "images/smart/2.jpeg",
@@ -150,41 +113,55 @@ images: [
   },
   {
     id: 3,
-    title: "DIGI-BUNNY",
-    category: "WEB3 NFT LAUNCH PLATFORM",
-    description: "A dark, atmospheric launch experience for a 5,000-piece NFT collection with wallet connection and live minting flows.",
-    heroImage: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1400&auto=format&fit=crop",
-    about: "Digi-Bunny turns a complex Web3 launch into a legible, high-energy interface that guides visitors from the collection story to minting.",
-    built: ["NFT Launch Website", "Collection Showcase", "Wallet Connect Flow", "Live Minting UI", "Responsive UI", "Launch Communications"],
-    features: ["Focused collection storytelling", "Clear wallet connection flow", "Live minting interface", "Neon-accent visual system", "Mobile-ready launch experience"],
-    technology: ["Solidity", "Web3.js", "React", "Dark UI Design"],
-    result: "The launch platform gives the collection a distinct visual world while keeping the critical minting journey direct, transparent and easy to follow.",
-    images: [
-      "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1634986666676-ec8fd927c23d?q=80&w=1400&auto=format&fit=crop"
+    title: "TANDURIWALA",
+    category: "FINE DINING RESTAURANT WEBSITE",
+    description: "A dark-and-gold luxury restaurant experience with glass-morphism visuals, smooth parallax animations, and a complete guest journey from menu to table booking.",
+    heroImage: "images/tanduriwala/1.jpeg",
+    about: "Tanduriwala was designed to make fine dining feel as premium online as it does at the table — an atmospheric dark theme, elegant typography, and a smooth, story-led browsing experience across every page.",
+    built: ["Restaurant Landing Page", "Categorised Menu System", "Table Reservation Form", "Chef & About Story", "Contact & Location Page", "Review & Gallery Sections"],
+    features: ["Glass-morphism cards with backdrop blur", "Category-tab menu with live item switching", "Reservation form with date, time & guest validation", "Animated stats counters and testimonial slider", "Scroll-triggered fade and parallax animations", "Fully responsive mobile-first layout"],
+    technology: ["HTML5", "CSS3 (Grid & Flexbox)", "Vanilla JavaScript (ES6+)", "Intersection Observer API", "Google Fonts", "Font Awesome"],
+    result: "The result is an upscale digital presence that mirrors the restaurant's real-world elegance, guiding guests smoothly from discovery to a confirmed reservation.", images: [
+      "images/tanduriwala/2.jpe",
+      "images/tanduriwala/3.jpe",
+      "images/tanduriwala/4.jpe",
+      "images/tanduriwala/5.jpe",
+      "images/tanduriwala/6.jpe",
+      "images/tanduriwala/7.jpe",
+      "images/tanduriwala/8.jpe",
+      "images/tanduriwala/9.jpe",
+      "images/tanduriwala/10.jpe",
+      "images/tanduriwala/11.jpe",
+      "images/tanduriwala/12.jpe",
+      "images/tanduriwala/13.jpe",
+      "images/tanduriwala/14.jpe",
+      "images/tanduriwala/15.jpe",
+      "images/tanduriwala/16.jpe"
     ],
-    liveUrl: "https://digibunny.io"
+    liveUrl: "https://restorantproject.github.io/restorant"
   },
   {
     id: 4,
-    title: "VIBE",
-    category: "KIDS FASHION E-COMMERCE",
-    description: "A bold editorial storefront for kidswear, built to make product browsing feel like turning through a lively fashion magazine.",
-    heroImage: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=1400&auto=format&fit=crop",
-    about: "Vibe gives a playful fashion brand a clear digital voice through oversized type, confident product composition and a fast route to shopping.",
-    built: ["Fashion E-Commerce Store", "Editorial Product Pages", "Collection Navigation", "Mobile Shopping Flow", "Responsive UI", "Motion-led Art Direction"],
-    features: ["Editorial product storytelling", "Fast collection browsing", "Bold brand-led typography", "Mobile-first shopping flow", "Clear product discovery"],
-    technology: ["Shopify", "Editorial UI Design", "Frontend Development", "Interaction Animation"],
-    result: "The result is a distinctive storefront that gives the collection room to speak while keeping the shopping experience intuitive for parents and young audiences.",
-    images: [
-      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?q=80&w=1400&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=1400&auto=format&fit=crop"
+     title: "DEVELOPER ACADEMY",
+    category: "SCHOOL / EDUCATIONAL INSTITUTION WEBSITE",
+    description: "A complete informational platform for a school, bringing admissions, academics, results, notices and events together in one clean, easy-to-navigate site.",
+    heroImage: "images/academy/1.png",
+    about: "Developer Academy was built to give a school a genuine digital front door — a place where parents can check admissions and fees, students can track results and notices, and the institution's story comes through clearly.",
+    built: ["School Landing Page", "Online Admissions Form", "Academics & Syllabus Pages", "Faculty Directory", "Photo Gallery & Events", "Notices & Announcements Board", "Student Result Checker"],
+    features: ["Live scrolling announcement ticker", "Online admission form with fee structure & eligibility", "Class-wise syllabus and timetable listing", "Faculty profiles by subject/department", "Event and gallery showcase (sports day, annual function, workshops)", "Online result lookup for students", "Fully responsive across devices"],
+    technology: ["HTML5", "CSS3", "Vanilla JavaScript", "Responsive Grid Layout"],
+    result: "The result is a school website that functions as a genuine information hub — reducing phone calls and front-office queries by putting admissions, results and notices directly in parents' and students' hands.",images: [
+      "images/academy/2.jpeg",
+      "images/academy/3.jpeg",
+      "images/academy/4.jpeg",
+      "images/academy/5.jpeg",
+      "images/academy/6.jpeg",
+      "images/academy/7.jpeg",
+      "images/academy/8.jpeg",
+      "images/academy/9.jpeg",
+      "images/academy/10.jpeg"
     ],
-    liveUrl: "https://vibe-kids.com"
+    liveUrl: "#"
   }
 ];
 
